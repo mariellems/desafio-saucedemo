@@ -1,0 +1,4 @@
+default: -p chrome -p html_report -p pretty --publish-quiet
+html_report: --format html --out=reports/report.html
+chrome: BROWSER=chrome
+pretty: --format pretty
