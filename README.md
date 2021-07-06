@@ -10,6 +10,7 @@
 - Clonar o projeto;
 - Instalar as dependências:
 gem install bundler
+
 bundle install
 
 ## Executar todos os testes:
